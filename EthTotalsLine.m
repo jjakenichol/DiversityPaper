@@ -1,4 +1,5 @@
 % Author: J. Jake Nichol
+% Email: jjaken@unm.edu
 %
 % Naming Key:
 %   B - Bachelors
